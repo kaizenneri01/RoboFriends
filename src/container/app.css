@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'Phoenix Ayash Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Phoenix Ayash Regular'), url('PhoenixayashRegular-1GYMj.woff') format('woff');
+    }
+
+
+    h1 , h2{
+        font-family: 'Phoenix Ayash Regular';
+    }
+
+    h1 {
+        color: rgb(221, 224, 14);
+        font-size: 3em;
+        
+    }
